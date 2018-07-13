@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Particles Turbulence Demo",
+"dataUrl": "wb.data.unityweb",
+"asmCodeUrl": "wb.asm.code.unityweb",
+"asmMemoryUrl": "wb.asm.memory.unityweb",
+"asmFrameworkUrl": "wb.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
